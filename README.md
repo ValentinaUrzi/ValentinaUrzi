@@ -1,8 +1,8 @@
-## Fancy seeing you here! <img src="[https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif](https://i.imgur.com/gRkk9JK.png)" width="100%">
+## Fancy seeing you here! <img src="https://i.imgur.com/gRkk9JK.png" width="100%">
 
 Hi! I'm Valentina and i'm a Junior Web Developer. I love videogames and roleplaying world. I like to read fantasy and thriller books.
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentina-urzì-0a3a86183/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-Valentina Urzì-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentina-urzì-0a3a86183/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Gmail Badge](https://img.shields.io/badge/-valentina.urzi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 ## ⚡ Technologies
