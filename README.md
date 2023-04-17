@@ -1,4 +1,4 @@
-## Welcome stranger 😜! <img src="https://imgur.com/KX4YeDl.png" align="right" height="275" /></a>
+## Welcome stranger 😜! <img src="https://imgur.com/KX4YeDl.png" align="right" height="180" /></a>
 
 Hi! I'm Valentina and i'm a Junior Web Developer. 
 <p>👉🏻I love videogames 🎮 and roleplaying world.</p>
