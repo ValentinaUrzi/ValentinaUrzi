@@ -18,4 +18,4 @@ I'm Valentina and i'm a Junior Web Developer.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ValentinaUrzi)
