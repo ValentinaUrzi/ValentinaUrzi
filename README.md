@@ -18,5 +18,5 @@ I'm Valentina and i'm a Junior Web Developer.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaUrzi&count_private=true&show_icons=true&theme=onedark)
+![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaUrzi&count_private=true&show_icons=true&theme=dracula)
 
