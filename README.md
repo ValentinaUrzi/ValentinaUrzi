@@ -1,4 +1,4 @@
-## Welcome stranger 😜! <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+## Welcome stranger 😜! <img src="https://imgur.com/KX4YeDl.png" align="right" height="275" /></a>
 
 Hi! I'm Valentina and i'm a Junior Web Developer. 
 <p>👉🏻I love videogames 🎮 and roleplaying world.</p>
@@ -7,8 +7,8 @@ Hi! I'm Valentina and i'm a Junior Web Developer.
 
 😄 Pronouns: She/Her
 
-[![Linkedin Badge](https://img.shields.io/badge/-Valentina Urzì-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentina-urzì-0a3a86183/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Gmail Badge](https://img.shields.io/badge/-valentina.urzi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ValentinaUrzì-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentina-urzì-0a3a86183/)](https://www.linkedin.com/in/valentina-urzì-0a3a86183/)
+[![Gmail Badge](https://img.shields.io/badge/-valentina.urzi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valentina.urzi@gmail.com)](mailto:valentina.urzi@gmail.com)
 
 ## ⚡ Technologies
 
