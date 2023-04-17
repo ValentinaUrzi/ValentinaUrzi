@@ -1,9 +1,9 @@
 ## Welcome stranger 😜! 
-<p>I'm Valentina and i'm a Junior Web Developer.</p>
-<p>I have always been passionate about technology and I've always wanted to make programming my job.</p>
+<p>👉🏼I'm Valentina and i'm a Junior Web Developer 👩🏼‍💻.</p>
+<p>👉🏼I have always been passionate about technology 💡 and I've always wanted to make programming my job 💪🏼.</p>
 <img src="https://imgur.com/xQDskUs.png" align="right" height="220" />
 <p>👉🏻I love videogames 🎮 and roleplaying world.</p>
-<p>👉🏻I like to read fantasy 🧙‍♂️ and thriller 🕵🏻‍♀️ books.</p>
+<p>👉🏻I like to read fantasy 🧙🏼‍♂️ and thriller 🕵🏻‍♀️ books.</p>
 <p>👉🏻I love to spend my time with my little troublemaker dog 🐶 Whisky.</p>
 
 😄 Pronouns: She/Her
@@ -24,7 +24,7 @@
 ![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaUrzi&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaUrzi&layout=compact)](https://github.com/ValentinaUrzi/github-readme-stats)
 
-## ⚡ Repos
+<!-- ## ⚡ Repos -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=LoL_Project)](https://lol-project-kappa.vercel.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=Drinkpedia)](https://drinkpedia.vercel.app)
