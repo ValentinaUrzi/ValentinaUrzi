@@ -19,4 +19,5 @@ I'm Valentina and i'm a Junior Web Developer.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaUrzi&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
