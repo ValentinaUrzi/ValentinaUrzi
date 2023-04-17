@@ -2,9 +2,9 @@
 <p>👉🏼I'm Valentina and i'm a Junior Web Developer 👩🏼‍💻.</p>
 <p>👉🏼I have always been passionate about technology 💡 and I've always wanted to make programming my job 💪🏼.</p>
 <img src="https://imgur.com/xQDskUs.png" align="right" height="220" />
-<p>👉🏻I love videogames 🎮 and roleplaying world.</p>
-<p>👉🏻I like to read fantasy 🧙🏼‍♂️ and thriller 🕵🏻‍♀️ books.</p>
-<p>👉🏻I love to spend my time with my little troublemaker dog 🐶 Whisky.</p>
+<p>👉🏼I love videogames 🎮 and roleplaying world.</p>
+<p>👉🏼I like to read fantasy 🧙🏼‍♂️ and thriller 🕵🏻‍♀️ books.</p>
+<p>👉🏼I love to spend my time with my little troublemaker dog 🐶 Whisky.</p>
 
 😄 Pronouns: She/Her
 
