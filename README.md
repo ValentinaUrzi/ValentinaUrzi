@@ -1,9 +1,9 @@
-## Welcome stranger 😜! <img src="https://i.imgur.com/gRkk9JK.png" width="100%">
+## Welcome stranger 😜! <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
 Hi! I'm Valentina and i'm a Junior Web Developer. 
-👉🏻I love videogames 🎮 and roleplaying world. 
-👉🏻I like to read fantasy 🧙‍♂️ and thriller 🕵🏻‍♀️ books. 
-👉🏻I love to spend my time with my little troublemaker doggy 🐶 Whisky. 
+<p>👉🏻I love videogames 🎮 and roleplaying world.</p>
+<p>👉🏻I like to read fantasy 🧙‍♂️ and thriller 🕵🏻‍♀️ books.</p>
+<p>👉🏻I love to spend my time with my little troublemaker doggy 🐶 Whisky.</p>
 
 😄 Pronouns: She/Her
 
