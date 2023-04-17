@@ -1,6 +1,11 @@
-## Fancy seeing you here! <img src="https://i.imgur.com/gRkk9JK.png" width="100%">
+## Welcome stranger 😜! <img src="https://i.imgur.com/gRkk9JK.png" width="100%">
 
-Hi! I'm Valentina and i'm a Junior Web Developer. I love videogames and roleplaying world. I like to read fantasy and thriller books.
+Hi! I'm Valentina and i'm a Junior Web Developer. 
+👉🏻I love videogames 🎮 and roleplaying world. 
+👉🏻I like to read fantasy 🧙‍♂️ and thriller 🕵🏻‍♀️ books. 
+👉🏻I love to spend my time with my little troublemaker doggy 🐶 Whisky. 
+
+😄 Pronouns: She/Her
 
 [![Linkedin Badge](https://img.shields.io/badge/-Valentina Urzì-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentina-urzì-0a3a86183/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Gmail Badge](https://img.shields.io/badge/-valentina.urzi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
@@ -12,7 +17,5 @@ Hi! I'm Valentina and i'm a Junior Web Developer. I love videogames and roleplay
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
