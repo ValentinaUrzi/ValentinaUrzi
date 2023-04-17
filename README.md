@@ -26,7 +26,7 @@
 
 ## ⚡ Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=LoL_Project)](https://lol-project-kappa.vercel.app)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=LoL_Project)](https://lol-project-kappa.vercel.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=Drinkpedia)](https://drinkpedia.vercel.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=Great_Market)](https://great-market.vercel.app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=Disney-Plus-Clone)](https://disney-plus-clone-iota.vercel.app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=Disney-Plus-Clone)](https://disney-plus-clone-iota.vercel.app) -->
