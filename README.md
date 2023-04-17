@@ -26,4 +26,4 @@
 
 ## ⚡ Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=LoL_Project)](https://github.com/ValentinaUrzi/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=LoL_Project)](https://lol-project-kappa.vercel.app)
