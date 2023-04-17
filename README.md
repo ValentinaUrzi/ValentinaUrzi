@@ -1,5 +1,6 @@
 ## Welcome stranger 😜! 
 I'm Valentina and i'm a Junior Web Developer. 
+I have always been passionate about technology and and I've always wanted to make programming my job
 <img src="https://imgur.com/xQDskUs.png" align="right" height="220" /></a>
 <p>👉🏻I love videogames 🎮 and roleplaying world.</p>
 <p>👉🏻I like to read fantasy 🧙‍♂️ and thriller 🕵🏻‍♀️ books.</p>
@@ -18,6 +19,16 @@ I'm Valentina and i'm a Junior Web Developer.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+## ⚡ Stats
+
 ![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaUrzi&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## ⚡ Repos
+
+<a href="https://github.com/ValentinaUrzi/lol_project">
+  <img align="center" src="lol-project-kappa.vercel.app/api/pin/?username=ValentinaUrzi&repo=lol-project" />
+</a>
+<a href="https://github.com/ValentinaUrzi/drinkpedia">
+  <img align="center" src="drinkpedia.vercel.app/api/pin/?username=ValentinaUrzi&repo=drinkpedia" />
+</a>
