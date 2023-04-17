@@ -1,9 +1,9 @@
-## Welcome stranger 😜! <img src="https://imgur.com/xQDskUs.png" align="right" height="180" /></a>
+## Welcome stranger 😜! <img src="https://imgur.com/xQDskUs.png" align="bottom-right" height="220" /></a>
 
 Hi! I'm Valentina and i'm a Junior Web Developer. 
 <p>👉🏻I love videogames 🎮 and roleplaying world.</p>
 <p>👉🏻I like to read fantasy 🧙‍♂️ and thriller 🕵🏻‍♀️ books.</p>
-<p>👉🏻I love to spend my time with my little troublemaker doggy 🐶 Whisky.</p>
+<p>👉🏻I love to spend my time with my little troublemaker dog 🐶 Whisky.</p>
 
 😄 Pronouns: She/Her
 
