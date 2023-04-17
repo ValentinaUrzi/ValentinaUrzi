@@ -26,3 +26,4 @@
 
 ## ⚡ Repos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentinaUrzi&repo=github-readme-stats)](https://github.com/ValentinaUrzi/github-readme-stats)
