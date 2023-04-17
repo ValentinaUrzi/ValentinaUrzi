@@ -1,5 +1,5 @@
 ## Welcome stranger 😜! 
-<p>👉🏼I'm Valentina and i'm a Junior Web Developer </p><img src="https://imgur.com/a1GM7m6.png" align="left" height="20" />.
+<p>👉🏼I'm Valentina and i'm a Junior Web Developer <img src="https://imgur.com/a1GM7m6.png" align="left" height="20" /></p>
 <p>👉🏼I have always been passionate about technology 💡 and I've always wanted to make programming my job 💪🏼.</p>
 <img src="https://imgur.com/xQDskUs.png" align="right" height="220" />
 <p>👉🏼I love videogames 🎮 and roleplaying world.</p>
