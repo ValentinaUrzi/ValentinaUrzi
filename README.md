@@ -22,13 +22,7 @@
 ## ⚡ Stats
 
 ![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaUrzi&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaUrzi&hide_progress=true)(https://github.com/ValentinaUrzi/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaUrzi&layout=compact)](https://github.com/ValentinaUrzi/github-readme-stats)
 
 ## ⚡ Repos
 
-<a href="https://github.com/ValentinaUrzi/lol_project">
-  <img align="center" src="lol-project-kappa.vercel.app/api/pin/?username=ValentinaUrzi&repo=lol-project" />
-</a>
-<a href="https://github.com/ValentinaUrzi/drinkpedia">
-  <img align="center" src="drinkpedia.vercel.app/api/pin/?username=ValentinaUrzi&repo=drinkpedia" />
-</a>
