@@ -1,6 +1,6 @@
 ## Welcome stranger 😜! 
 <p>👉🏼I'm Valentina and I'm a Junior Web Developer <img src="https://imgur.com/a1GM7m6.png" height="18" />.</p>
-<p>👉🏼I have always been passionate about technology 💡 and I've always wanted to make programming my job 💪🏼.</p>
+<p>👉🏼I have always been passionate about technology 💡 and always wanted to make programming my job 💪🏼.</p>
 <img src="https://imgur.com/xQDskUs.png" align="right" height="220" />
 <p>👉🏼I love videogames 🎮 and roleplaying world.</p>
 <p>👉🏼I like to read fantasy 🧙🏼‍♂️ and thriller 🕵🏻‍♀️ books.</p>
